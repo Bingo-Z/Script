@@ -1,0 +1,36 @@
+{
+  "comparison_info": {
+    "base_folder": "C:\\Users\\binEd\\Desktop\\compare\\A",
+    "compare_folder": "C:\\Users\\binEd\\Desktop\\compare\\TEST\\A",
+    "timestamp": "2025-03-24 09:49:21"
+  },
+  "differences": {
+    "changes": {
+      "B": {
+        "new": {
+          "4297TRD": [
+            "zxc"
+          ]
+        },
+        "deleted": {
+          "FRAMWORK": [
+            "CMBZC"
+          ],
+          "4273TRD": [
+            "LST",
+            "PRE"
+          ]
+        }
+      },
+      "B\\4297TRD": {
+        "new": {
+          "zxc": [
+            "sdfsdfsdfs"
+          ]
+        }
+      }
+    },
+    "total_changes": 4,
+    "different_files": "没有"
+  }
+}
